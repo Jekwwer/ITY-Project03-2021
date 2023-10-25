@@ -1,13 +1,12 @@
-# ITY-Project3-2021
+# ITY-Project03-2021
 
-Solution of the 3rd ITY project in 2020/21. \
-Řešení 3. projektu z předmětu ITY v roce 2020/21. \
-VUT FIT
+Solution for the 3rd project from the subject _'ITY (Typography and Publishing)'_ for the academic year 2020/21 at VUT FIT. \
+Řešení 3. projektu z předmětu _'ITY (Typografie a publikování)'_ pro akademický rok 2020/21 na VUT FIT.
 
-## Hodnocení
+## Evaluation
 
-| Komentář     | Penalizace |       Stav |
-| :----------- | :--------: | ---------: |
-| jinak odkazy |    -0.5    | Neopraveno |
+| Mistake            | Penalties |      Status |
+| :----------------- | :-------: | ----------: |
+| wrongly made links |   -0.5    | Uncorrected |
 
-Celkové hodnocení   **14,5/15** b.
+Total points: **14.5/15**
