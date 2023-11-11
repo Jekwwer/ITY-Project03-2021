@@ -1,4 +1,4 @@
-# Project: Projekt 3
+# Project: Project 3
 # Autor:   Evgenii Shiliaev
 # Datum:   05.04.2021
 
