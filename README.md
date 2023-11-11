@@ -1,55 +1,53 @@
-# ITY-Project03-2021
+# **ITY-Project03-2021:**
 
-Solution for the 3rd project from the subject _'ITY (Typography and Publishing)'_ for the academic year 2020/21 at VUT FIT. \
-Řešení 3. projektu z předmětu _'ITY (Typografie a publikování)'_ pro akademický rok 2020/21 na VUT FIT.
+### Formatting LaTeX Tables, Algorithms & Images
 
-## Task
+> 🎓 **University**: [VUT FIT](https://www.fit.vut.cz/)
+>
+> 📚 **Course**: [Typography and Publishing (ITY)](https://www.fit.vut.cz/study/course/268283/)
+>
+> 📅 **Academic Year**: 2020/21
 
-Create a document in LaTeX that closely resembles the sample document.
+## 🎯 **Task Overview**
 
-### General Information for the Project:
+Create a LaTeX document that closely mirrors a provided sample. The aim is not to achieve an exact visual match but to utilize correct LaTeX structures.
 
-1. **Appearance**:
-   - Don't aim to achieve an exact appearance as the sample document.
-   - It's better to use correct LaTeX structures with slight variations than to use tricks for a "perfect" replica (e.g., inserting artificial horizontal or vertical spaces).
-2. **Document Content**:
-   - The document itself has useful information for the proper completion of the project. Hence, read the document text carefully.
-3. **Commands Used**:
-   - Commands used in document typesetting were mentioned in the ITY lectures, with a few exceptions.
-   - Some previously unmentioned commands are highlighted in the document text.
-   - However, some commands not discussed before were used; but finding them (integral to practical LaTeX use) shouldn't be challenging.
-4. **Special Attention**:
-   - Pay attention to using correct commands for listing, sections, and footnotes.
-   - Be cautious with the correct typesetting of website addresses, emails, and section links. All links in the document are clickable and highlighted when hovered over.
-   - For section links, be wary of the correct translation; incorrect translations can lead to "??", appearing instead of links.
-5. **Picture Task**:
-   - As the final image, create a simple drawing of your house in the picture environment, including the sun or moon.
-   - The point evaluation of this image will depend on the aesthetic and architectural qualities of your drawing.
-   - Note: If you believe the aesthetic and architectural qualities of your dwelling are low and could negatively affect your drawing, you can depict another building instead.
+### 📝 **General Project Guidelines**:
 
----
-
-### Basic Document Parameters:
-
-1. **Page Size**: A4
-2. **Text Area Dimensions**: 17x24cm
-3. **Left Margin**: 2cm
-4. **Top Margin**: 3cm
-5. **Font**: Standard 11pt
-6. **Source Text Encoding (Optional)**: utf8
+1. 🎨 **Appearance**:
+   - Focus on using correct LaTeX structures rather than mimicking the sample perfectly.
+2. 📚 **Content**:
+   - The sample document contains essential information; read it carefully.
+3. 🛠️ **Commands**:
+   - Utilize commands covered in the lectures, with some new ones highlighted within the text.
+4. 🔍 **Attention to Detail**:
+   - Ensure correct usage of commands for lists, sections, and footnotes.
+   - Make website addresses, emails, and section links properly clickable.
+5. ✨ **Creative Element**:
+   - Create a simple yet aesthetically pleasing drawing of a house, including the sun or moon, at the end of the document.
 
 ---
 
-### Document Compilation Information:
+## 📐 **Basic Document Specifications**:
 
-**Instructions**:
+- **Page Size**: A4
+- **Text Area**: 17x24 cm
+- **Left Margin**: 2cm
+- **Top Margin**: 3cm
+- **Font**: Standard 11pt
+- **Encoding (Optional)**: utf8
 
-- Use the makefile and commands latex, dvips, and ps2pdf with the parameter -sPAPERSIZE=a4 for compilation.
+---
 
-## Evaluation
+## 🔧 **Compilation Instructions**:
 
-| Mistake            | Penalties |      Status |
-| :----------------- | :-------: | ----------: |
-| wrongly made links |   -0.5    | Uncorrected |
+- Use `makefile` with `latex`, `dvips`, `ps2pdf -sPAPERSIZE=a4` for document compilation.
 
-Total points: **14.5/15**
+## 📊 **Evaluation Results**
+
+| Note                                |      Status |             |
+| :---------------------------------- | ----------: | ----------: |
+| Wrongly made links **(-0.5 point)** | _NOT Fixed_ |             |
+|                                     |             |             |
+| **Total Points:**                   |             | **14.5/15** |
+|                                     |             |  🟢🟢🟢🟢🟡 |
